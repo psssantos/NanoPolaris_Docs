@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+Nanopolaris - A tool for rapid computational optimization of plasmonic nanoparticles for chemical and biological sensing applications.
 """
 
 __version__ = "0.1.0"
