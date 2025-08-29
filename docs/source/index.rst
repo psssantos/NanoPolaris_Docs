@@ -1,10 +1,8 @@
 Welcome to NanoPolaris documentation!
 ===================================
 
-NanoPolaris is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+NanoPolaris is a Python library that quickly calculates the optical response and near-field properties of plasmonic nanoparticles.
+ 
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -17,6 +15,9 @@ Contents
 --------
 
 .. toctree::
-
-   usage
-   api
+   About
+   Getting started
+   Simulation guidelines
+   Examples
+   API
+   Literature
