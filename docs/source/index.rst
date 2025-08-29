@@ -16,12 +16,27 @@ Contents
 
 .. toctree::
    :maxdepth: 1
-   About
-   Getting started
-   Simulation guidelines
-   Examples
-   API
-   Literature
+   _source/about
+   
+.. .. toctree::
+..    :maxdepth: 1
+..    _source/getting_started
+
+.. .. toctree::
+..    :maxdepth: 1
+..    _source/simulation_guidelines
+
+.. .. toctree::
+..    :maxdepth: 1
+..    _source/examples
+
+.. .. toctree::
+..    :maxdepth: 1
+..    _source/api
+
+.. .. toctree::
+..    :maxdepth: 1
+..    _source/literature
 
 
 

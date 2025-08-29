@@ -26,10 +26,6 @@ About
 
    The basis of the optical response is calculated using an universal analytical formalism developed by Garcia de Abajo et al., (https://doi.org/10.1039/C6CS00919K), where a polarizability is returned for the specific nanoparticle. In this package additional corrections are added to account for size effects: (i) Surface dampening for small nanoparticles; (ii) retardation effects for large nanoparticles; (iii) substrate effects for supported or nearby substrates.
 
-   
-
-
-
 
    this project is under active development.
    Developed by Paulo S. S. dos Santos
